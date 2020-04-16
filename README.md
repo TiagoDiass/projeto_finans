@@ -9,10 +9,11 @@ I really enjoyed developing this site and I also liked the final result, I've le
 
 ## Resultado final / Final result :clipboard:
 
-Você pode ver o resultado final desse projeto no ar clicando aqui: https://tiagodiass.github.io/projeto_finans<br>
+:arrow_forward: Você pode ver o resultado final desse projeto no ar clicando aqui: https://tiagodiass.github.io/projeto_finans<br>
 E você também pode ver um preview de como ele ficou nos GIFs logo abaixo :arrow_down:<br>
 
-You can see the final result of this project clicking here: https://tiagodiass.github.io/projeto_finans<br>
+
+:arrow_forward: You can see the final result of this project clicking here: https://tiagodiass.github.io/projeto_finans<br>
 And you can also take a look at that seeing the GIFs below :arrow_down:<br>
 
 ### Mobile :iphone:
